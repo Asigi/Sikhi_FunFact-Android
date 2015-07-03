@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sikhi Fun Facts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="fact_type">Fact Type</string>
+    <string name="title_activity_display84">Display84Activity</string>
+</resources>
